@@ -209,5 +209,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an issue on GitHub
-- Contact: your.email@example.com
+- Contact: petergatitu61@gmail.com
 - Documentation: [Wiki](https://github.com/bellonbits/Real-time-Data-Streaming-System/wiki)
